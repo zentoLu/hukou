@@ -457,9 +457,9 @@ footer{
 .why-text{color: #333;text-align:left;font-size: 16px;}
 
 .nav{
-    height: 70px;
+    height: 39px;
     line-height: 70px;
-    /* border-bottom: 1px solid #ddd; */
+    border-bottom: 1px solid #ddd;
 }
 .nav-content{
     width: 1200px;
@@ -497,7 +497,7 @@ footer{
 }
 
 .banner{
-    height: 687px;
+    height: 528px;
 }
 .banner2{
     background-image: url(../img/banner2.jpg);
@@ -753,6 +753,9 @@ footer{
     padding: 0;
     margin: 0;
     width: 100%;
+}
+.hide{
+  display: none;
 }
 .col-md-3 {
     width: 25%;
